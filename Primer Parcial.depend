@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1621434884 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+	"Color.h"
+	"Mascota.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"DataWarehouse.h"
+
+1621432920 c:\users\nahue\onedrive\escritorio\labo\primer parcial\tipo.h
+
+1621432920 c:\users\nahue\onedrive\escritorio\labo\primer parcial\color.h
+
+1621433533 c:\users\nahue\onedrive\escritorio\labo\primer parcial\mascota.h
+	"Tipo.h"
+	"Color.h"
+
+1621433351 c:\users\nahue\onedrive\escritorio\labo\primer parcial\servicio.h
+
+1621432469 c:\users\nahue\onedrive\escritorio\labo\primer parcial\trabajo.h
+	"Mascota.h"
+	"Servicio.h"
+	"fecha.h"
+
+1621426518 c:\users\nahue\onedrive\escritorio\labo\primer parcial\fecha.h
+
+1621435104 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mascota.h"
+
+1621432920 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Color.h"
+
+1621432920 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+
+1621433198 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicio.h"
+
+1621434130 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+
+1621434833 source:c:\users\nahue\onedrive\escritorio\labo\primer parcial\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DataWarehouse.h"
+
+1621435128 c:\users\nahue\onedrive\escritorio\labo\primer parcial\datawarehouse.h
+	"Mascota.h"
+
+1621432920 source:c:\users\nahue\onedrive\escritorio\primer parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Color.h"
+
+1621808649 c:\users\nahue\onedrive\escritorio\primer parcial\color.h
+
+1622037145 source:c:\users\nahue\onedrive\escritorio\primer parcial\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DataWarehouse.h"
+
+1622030945 c:\users\nahue\onedrive\escritorio\primer parcial\datawarehouse.h
+	"Mascota.h"
+	"Trabajo.h"
+
+1622034565 c:\users\nahue\onedrive\escritorio\primer parcial\mascota.h
+	"Tipo.h"
+	"Color.h"
+
+1621808649 c:\users\nahue\onedrive\escritorio\primer parcial\tipo.h
+
+1622034899 source:c:\users\nahue\onedrive\escritorio\primer parcial\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mascota.h"
+
+1621433198 source:c:\users\nahue\onedrive\escritorio\primer parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicio.h"
+
+1621808649 c:\users\nahue\onedrive\escritorio\primer parcial\servicio.h
+
+1621432920 source:c:\users\nahue\onedrive\escritorio\primer parcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+
+1621809966 source:c:\users\nahue\onedrive\escritorio\primer parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+
+1621809966 c:\users\nahue\onedrive\escritorio\primer parcial\trabajo.h
+	"Mascota.h"
+	"Servicio.h"
+	"fecha.h"
+
+1622035747 c:\users\nahue\onedrive\escritorio\primer parcial\fecha.h
+
+1622037381 source:c:\users\nahue\onedrive\escritorio\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+	"Color.h"
+	"Mascota.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"DataWarehouse.h"
+	"Informes.h"
+
+1622035914 source:c:\users\nahue\onedrive\escritorio\primer parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Informes.h"
+
+1622036009 c:\users\nahue\onedrive\escritorio\primer parcial\informes.h
+	"Mascota.h"
+	"Trabajo.h"
+
+1622035747 source:c:\users\nahue\onedrive\escritorio\primer parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
